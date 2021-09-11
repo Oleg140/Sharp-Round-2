@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace ConsoleApp1
 {
@@ -26,6 +27,10 @@ namespace ConsoleApp1
             list.arr[Masha.procent+1].Add(Masha);
             list.arr[Dasha.procent+1].Add(Dasha);
             
+            Journal inf = new Journal();
+            inf.Bank += Functions<User>.Info;
+            
+            
             while (true)
             {
                 switch (Functions<User>.Menu())
@@ -42,11 +47,17 @@ namespace ConsoleApp1
                 }
             }
             
-            /*
-            a.Next();
-            a.RemoveCurrent();
-            Console.WriteLine(a.Current().name);
-            */
+            
+            a.Remove(Nikolas);
+            try
+            {
+                a.Remove(Nikolas);
+            }
+            catch (MyOwnExceptions e)
+            {
+                 Console.WriteLine(e);
+                 Console.ReadLine();
+            }
         }
     }
 }

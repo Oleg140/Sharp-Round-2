@@ -98,11 +98,17 @@ namespace ConsoleApp1
         {
             Node<T> cur = Head;
             int i = 0;
+            bool flag = false;
             while (cur != null)
             {
-                if (Functions<T>.Comp(cur.Date,item) == 0) break;
+                if (Functions<T>.Comp(cur.Date, item) == 0) {flag = true;break;}
                 i++;
                 cur = cur.right;
+            }
+
+            if (!flag)
+            {
+                throw new MyOwnExceptions("Элемента нет в коллекции");
             }
 
             if (Functions<T>.Comp(Head.Date, item) == 0){ Head = null; count--; return;}
@@ -131,7 +137,7 @@ namespace ConsoleApp1
             {
                 if (index >= this.Count)
                 {
-                    return default;
+                    throw new IndexOutOfRangeException();
                 }
                 else
                 {

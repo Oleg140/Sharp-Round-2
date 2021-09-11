@@ -4,6 +4,11 @@ namespace ConsoleApp1
 {
     public static class Functions<T>  //where T: class
     {
+        public static void Info(string msg)
+        {
+            Console.WriteLine(msg);
+        }
+
         public static int namesComp(T first, string name)
         {
             var buff = first as User;
@@ -106,4 +111,12 @@ namespace ConsoleApp1
         }
         
     }
+    
+    public class MyOwnExceptions : Exception
+    {
+        public MyOwnExceptions(string message) : base(message)
+        {
+        }
+    }
+    
 }

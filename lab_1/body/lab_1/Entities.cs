@@ -39,6 +39,12 @@ namespace ConsoleApp1
                 arr.Add(new MyCustomCollection<User>());
             }
         }
-        
+    }
+
+    public class Journal
+    {
+        public delegate void Registration(string msg);
+
+        public event Registration Bank;
     }
 }
