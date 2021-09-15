@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sharp-Round-2\\lab_1\\body\\lab_1\\lab_1.csproj",
+      "projectUniqueName": "D:\\Sharp-Round-2\\lab_5-6\\body\\lab_1\\lab_1.csproj",
       "projectName": "lab_1",
-      "projectPath": "D:\\Sharp-Round-2\\lab_1\\body\\lab_1\\lab_1.csproj",
+      "projectPath": "D:\\Sharp-Round-2\\lab_5-6\\body\\lab_1\\lab_1.csproj",
       "packagesPath": "C:\\Users\\Trapp\\.nuget\\packages\\",
-      "outputPath": "D:\\Sharp-Round-2\\lab_1\\body\\lab_1\\obj\\",
+      "outputPath": "D:\\Sharp-Round-2\\lab_5-6\\body\\lab_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Trapp\\AppData\\Roaming\\NuGet\\NuGet.Config",
