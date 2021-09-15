@@ -13,7 +13,6 @@ namespace ConsoleApp1
 
         public User()
         {
-            
         }
 
         public User(string name, int money, int procent)
@@ -79,8 +78,8 @@ namespace ConsoleApp1
 
         public static int Count(Bank obj, int n)
         {
-           // return (from i in obj.arr from U in i select U.money).Aggregate((x,n) => n < x ?  ); через эту функцию я не знаю пока
-           return (from i in obj.arr from U in i select U.procent).Where(i => i > n).Count();
+            return (from i in obj.arr from U in i select U).Aggregate(0, (a, b) => { a += b.money > n ? 1 : 0; return a;}); 
+          // return (from i in obj.arr from U in i select U.procent).Where(i => i > n).Count();
         }
 
         public static void Group(Bank obj)
