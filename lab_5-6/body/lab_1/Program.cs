@@ -5,6 +5,11 @@ namespace ConsoleApp1
 {
     class Program
     {
+        public void hello(string name, string day)
+        {
+            Console.WriteLine("Hello {0} , its good {1}",name,day);
+        }
+
         static void Main(string[] args)
         {
             User Aleh = new User("Asadchy Aleh Eduardovich",5000,8);
@@ -21,15 +26,16 @@ namespace ConsoleApp1
             
             Bank list = new Bank();
             
-            list.arr[Aleh.procent+1].Add(Aleh);
+            //list.arr[Aleh.procent+1].Add(Aleh);
             list.arr[Nikolas.procent+1].Add(Nikolas);
             list.arr[Dima.procent+1].Add(Dima);
             list.arr[Masha.procent+1].Add(Masha);
             list.arr[Dasha.procent+1].Add(Dasha);
             
             Journal inf = new Journal();
-            inf.Bank += Functions<User>.Info;
+            list.bank += inf.rgstr;
             
+            list.AddUser(Aleh);
             
             while (true)
             {

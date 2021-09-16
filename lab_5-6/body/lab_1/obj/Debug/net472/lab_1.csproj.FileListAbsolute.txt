@@ -7,3 +7,12 @@ D:\Sharp-Round-2\lab_1\body\lab_1\obj\Debug\net472\lab_1.AssemblyInfo.cs
 D:\Sharp-Round-2\lab_1\body\lab_1\obj\Debug\net472\lab_1.csproj.CoreCompileInputs.cache
 D:\Sharp-Round-2\lab_1\body\lab_1\obj\Debug\net472\lab_1.exe
 D:\Sharp-Round-2\lab_1\body\lab_1\obj\Debug\net472\lab_1.pdb
+D:\Sharp-Round-2\lab_5-6\body\lab_1\bin\Debug\net472\lab_1.exe.config
+D:\Sharp-Round-2\lab_5-6\body\lab_1\bin\Debug\net472\lab_1.exe
+D:\Sharp-Round-2\lab_5-6\body\lab_1\bin\Debug\net472\lab_1.pdb
+D:\Sharp-Round-2\lab_5-6\body\lab_1\obj\Debug\net472\lab_1.csprojAssemblyReference.cache
+D:\Sharp-Round-2\lab_5-6\body\lab_1\obj\Debug\net472\lab_1.AssemblyInfoInputs.cache
+D:\Sharp-Round-2\lab_5-6\body\lab_1\obj\Debug\net472\lab_1.AssemblyInfo.cs
+D:\Sharp-Round-2\lab_5-6\body\lab_1\obj\Debug\net472\lab_1.csproj.CoreCompileInputs.cache
+D:\Sharp-Round-2\lab_5-6\body\lab_1\obj\Debug\net472\lab_1.exe
+D:\Sharp-Round-2\lab_5-6\body\lab_1\obj\Debug\net472\lab_1.pdb

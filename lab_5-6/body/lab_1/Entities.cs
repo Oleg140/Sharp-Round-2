@@ -29,6 +29,8 @@ namespace ConsoleApp1
         public  MyCustomCollection<MyCustomCollection<User>> arr = new MyCustomCollection<MyCustomCollection<User>>();
         public  MyCustomCollection<int>  list = new MyCustomCollection<int>();
 
+        public delegate void Registration(string s,string c);
+        public event Registration bank = delegate(string s,String c) { };
         public Bank()
         {
             int i = 0;
@@ -39,12 +41,22 @@ namespace ConsoleApp1
                 arr.Add(new MyCustomCollection<User>());
             }
         }
+
+        public void AddUser(User a)
+        {
+           this.arr[a.procent+1].Add(a); 
+           bank?.Invoke(a.name,"добавлен");
+        }
     }
 
     public class Journal
     {
-        public delegate void Registration(string msg);
+        MyCustomCollection<(String,String)> jrnl = new MyCustomCollection<(string, string)>();
 
-        public event Registration Bank;
+        public void rgstr(String name,String move)
+        {
+            Console.WriteLine("Пользователь {0} был {1}",name,move);
+            jrnl.Add((name,move));
+        }
     }
 }
