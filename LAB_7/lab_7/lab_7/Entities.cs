@@ -84,19 +84,36 @@ namespace ConsoleApp1
 
         public static void Group(Bank obj)
         {
+            /*
             var procentGroup = from i in obj.arr
                 from u in i
                 group u by u.procent;
+            */
+
+            var procentGroup = from i in obj.arr
+                from u in i
+                group u by u.procent
+                into g
+                select new {procent = g.Key, names = from user in g select user.name};
 
             foreach (var g in procentGroup)
             {
+                /*
                 Console.WriteLine($"{g.Key}%:");
                 foreach (var user in g)
                 {
                     Console.WriteLine(user.name);
                 }
                 Console.WriteLine();
+                */
+                Console.WriteLine($"{g.procent}:");
+                foreach (var name in g.names)
+                {
+                    Console.WriteLine(name);
+                }
+                Console.WriteLine();
             }
+            
         }
     }
 }
