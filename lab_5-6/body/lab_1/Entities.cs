@@ -30,7 +30,7 @@ namespace ConsoleApp1
         public  MyCustomCollection<int>  list = new MyCustomCollection<int>();
 
         public delegate void Registration(string s,string c);
-        public event Registration bank = delegate(string s,String c) { };
+        public event Registration bank /*= delegate(string s,String c) { }*/;
         public Bank()
         {
             int i = 0;

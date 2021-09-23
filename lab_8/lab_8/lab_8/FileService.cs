@@ -31,7 +31,6 @@ namespace lab_8
                     writer.Write(empl.Name);
                     writer.Write(empl.Age.ToString());
                     writer.Write(empl.IsMarried.ToString());
-                    
                 }
             }
         }

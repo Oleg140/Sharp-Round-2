@@ -1,12 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETFramework,Version=v4.7.2": {},
-    ".NETFramework,Version=v4.7.2/win7-x86": {}
+    ".NETCoreApp,Version=v5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETFramework,Version=v4.7.2": []
+    ".NETCoreApp,Version=v5.0": []
   },
   "packageFolders": {
     "C:\\Users\\Trapp\\.nuget\\packages\\": {}
@@ -14,25 +13,25 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rider_LABS\\SEM_3\\LAB_8\\lab_8\\lab_8\\lab_8.csproj",
+      "projectUniqueName": "D:\\Sharp-Round-2\\lab_8\\lab_8\\lab_8\\lab_8.csproj",
       "projectName": "lab_8",
-      "projectPath": "D:\\Rider_LABS\\SEM_3\\LAB_8\\lab_8\\lab_8\\lab_8.csproj",
+      "projectPath": "D:\\Sharp-Round-2\\lab_8\\lab_8\\lab_8\\lab_8.csproj",
       "packagesPath": "C:\\Users\\Trapp\\.nuget\\packages\\",
-      "outputPath": "D:\\Rider_LABS\\SEM_3\\LAB_8\\lab_8\\lab_8\\obj\\",
+      "outputPath": "D:\\Sharp-Round-2\\lab_8\\lab_8\\lab_8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Trapp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net472"
+        "netcoreapp5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net472": {
+        "netcoreapp5.0": {
           "projectReferences": {}
         }
       },
@@ -43,13 +42,23 @@
       }
     },
     "frameworks": {
-      "net472": {
+      "netcoreapp5.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
-      }
-    },
-    "runtimes": {
-      "win7-x86": {
-        "#import": []
       }
     }
   }

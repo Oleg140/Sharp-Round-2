@@ -92,8 +92,7 @@ namespace ConsoleApp1
 
             var procentGroup = from i in obj.arr
                 from u in i
-                group u by u.procent
-                into g
+                group u by u.procent into g
                 select new {procent = g.Key, names = from user in g select user.name};
 
             foreach (var g in procentGroup)
