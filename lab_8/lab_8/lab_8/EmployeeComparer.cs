@@ -8,7 +8,8 @@ namespace lab_8
     {
        public int Compare(T x, T y)
        {
-           return x.Name == y.Name ? 0 : 1;
+           //return x.Name == y.Name ? 0 : 1;
+           return String.Compare(x.Name, y.Name);
        }
     }
 }

@@ -74,6 +74,19 @@ namespace lab_8
                 }
                 Console.WriteLine();
             }
+            
+            
+            // сортировка по имени с помощтю LINQ и метода Compare
+            EmployeeComparer<Employee> buff = new EmployeeComparer<Employee>();
+            
+            var names = ans.OrderBy(a => a, new EmployeeComparer<Employee>());
+            
+            Console.WriteLine("HUUIIIIIIIIIi");
+            Console.WriteLine(" ");
+            foreach (var u in names)
+            {
+                Console.WriteLine(u.Name);
+            }
         }
     }
 }
