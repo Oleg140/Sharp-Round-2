@@ -1,0 +1,16 @@
+C:\Users\ralia\Desktop\Oleg-Debug\Oleg-Debug\Oleg-Debug\Oleg-Debug\bin\Release\net5.0\Oleg-Debug.exe
+C:\Users\ralia\Desktop\Oleg-Debug\Oleg-Debug\Oleg-Debug\Oleg-Debug\bin\Release\net5.0\Oleg-Debug.deps.json
+C:\Users\ralia\Desktop\Oleg-Debug\Oleg-Debug\Oleg-Debug\Oleg-Debug\bin\Release\net5.0\Oleg-Debug.runtimeconfig.json
+C:\Users\ralia\Desktop\Oleg-Debug\Oleg-Debug\Oleg-Debug\Oleg-Debug\bin\Release\net5.0\Oleg-Debug.runtimeconfig.dev.json
+C:\Users\ralia\Desktop\Oleg-Debug\Oleg-Debug\Oleg-Debug\Oleg-Debug\bin\Release\net5.0\Oleg-Debug.dll
+C:\Users\ralia\Desktop\Oleg-Debug\Oleg-Debug\Oleg-Debug\Oleg-Debug\bin\Release\net5.0\ref\Oleg-Debug.dll
+C:\Users\ralia\Desktop\Oleg-Debug\Oleg-Debug\Oleg-Debug\Oleg-Debug\bin\Release\net5.0\Oleg-Debug.pdb
+C:\Users\ralia\Desktop\Oleg-Debug\Oleg-Debug\Oleg-Debug\Oleg-Debug\obj\Release\net5.0\Oleg-Debug.csprojAssemblyReference.cache
+C:\Users\ralia\Desktop\Oleg-Debug\Oleg-Debug\Oleg-Debug\Oleg-Debug\obj\Release\net5.0\Oleg-Debug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralia\Desktop\Oleg-Debug\Oleg-Debug\Oleg-Debug\Oleg-Debug\obj\Release\net5.0\Oleg-Debug.AssemblyInfoInputs.cache
+C:\Users\ralia\Desktop\Oleg-Debug\Oleg-Debug\Oleg-Debug\Oleg-Debug\obj\Release\net5.0\Oleg-Debug.AssemblyInfo.cs
+C:\Users\ralia\Desktop\Oleg-Debug\Oleg-Debug\Oleg-Debug\Oleg-Debug\obj\Release\net5.0\Oleg-Debug.csproj.CoreCompileInputs.cache
+C:\Users\ralia\Desktop\Oleg-Debug\Oleg-Debug\Oleg-Debug\Oleg-Debug\obj\Release\net5.0\Oleg-Debug.dll
+C:\Users\ralia\Desktop\Oleg-Debug\Oleg-Debug\Oleg-Debug\Oleg-Debug\obj\Release\net5.0\ref\Oleg-Debug.dll
+C:\Users\ralia\Desktop\Oleg-Debug\Oleg-Debug\Oleg-Debug\Oleg-Debug\obj\Release\net5.0\Oleg-Debug.pdb
+C:\Users\ralia\Desktop\Oleg-Debug\Oleg-Debug\Oleg-Debug\Oleg-Debug\obj\Release\net5.0\Oleg-Debug.genruntimeconfig.cache
