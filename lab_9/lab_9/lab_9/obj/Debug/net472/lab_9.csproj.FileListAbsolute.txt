@@ -1,0 +1,9 @@
+D:\Rider_LABS\SEM_3\LAB_9\lab_9\lab_9\bin\Debug\net472\lab_9.exe.config
+D:\Rider_LABS\SEM_3\LAB_9\lab_9\lab_9\bin\Debug\net472\lab_9.exe
+D:\Rider_LABS\SEM_3\LAB_9\lab_9\lab_9\bin\Debug\net472\lab_9.pdb
+D:\Rider_LABS\SEM_3\LAB_9\lab_9\lab_9\obj\Debug\net472\lab_9.csprojAssemblyReference.cache
+D:\Rider_LABS\SEM_3\LAB_9\lab_9\lab_9\obj\Debug\net472\lab_9.AssemblyInfoInputs.cache
+D:\Rider_LABS\SEM_3\LAB_9\lab_9\lab_9\obj\Debug\net472\lab_9.AssemblyInfo.cs
+D:\Rider_LABS\SEM_3\LAB_9\lab_9\lab_9\obj\Debug\net472\lab_9.csproj.CoreCompileInputs.cache
+D:\Rider_LABS\SEM_3\LAB_9\lab_9\lab_9\obj\Debug\net472\lab_9.exe
+D:\Rider_LABS\SEM_3\LAB_9\lab_9\lab_9\obj\Debug\net472\lab_9.pdb
