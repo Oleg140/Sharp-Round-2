@@ -1,3 +1,6 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Cralia_005CDesktop_005COleg_002DDebug_005COleg_002DDebug_005CLab10_005Flib_005CLab10_005Flib_002Esln/@EntryIndexedValue">True</s:Boolean>
-	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Cralia_005CDesktop_005COleg_002DDebug_005COleg_002DDebug_005CLab10_005Flib_005CLab10_005Flib_005Cbin_005CDebug_005CLab10_005Flib_002Edll/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Cralia_005CDesktop_005COleg_002DDebug_005COleg_002DDebug_005CLab10_005Flib_005CLab10_005Flib_005Cbin_005CDebug_005CLab10_005Flib_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="D:\Sharp-Round-2\lab_10\Lab10_lib\Lab10_lib\bin\Debug\Lab10_lib.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>

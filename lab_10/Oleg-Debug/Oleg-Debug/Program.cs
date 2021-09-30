@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Reflection;
 
 namespace Oleg_Debug
 {
@@ -6,7 +9,7 @@ namespace Oleg_Debug
     {
         static void Main(string[] args)
         {
-            
+            Assembly tool = 
         }
     }
 }

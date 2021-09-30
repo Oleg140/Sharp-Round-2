@@ -1,32 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ralia\\Desktop\\Oleg-Debug\\Oleg-Debug\\Oleg-Debug\\Oleg-Debug\\Oleg-Debug.csproj": {}
+    "D:\\Sharp-Round-2\\lab_10\\Oleg-Debug\\Oleg-Debug\\Oleg-Debug.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ralia\\Desktop\\Oleg-Debug\\Oleg-Debug\\Oleg-Debug\\Oleg-Debug\\Oleg-Debug.csproj": {
+    "D:\\Sharp-Round-2\\lab_10\\Oleg-Debug\\Oleg-Debug\\Oleg-Debug.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ralia\\Desktop\\Oleg-Debug\\Oleg-Debug\\Oleg-Debug\\Oleg-Debug\\Oleg-Debug.csproj",
+        "projectUniqueName": "D:\\Sharp-Round-2\\lab_10\\Oleg-Debug\\Oleg-Debug\\Oleg-Debug.csproj",
         "projectName": "Oleg-Debug",
-        "projectPath": "C:\\Users\\ralia\\Desktop\\Oleg-Debug\\Oleg-Debug\\Oleg-Debug\\Oleg-Debug\\Oleg-Debug.csproj",
-        "packagesPath": "C:\\Users\\ralia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ralia\\Desktop\\Oleg-Debug\\Oleg-Debug\\Oleg-Debug\\Oleg-Debug\\obj\\",
+        "projectPath": "D:\\Sharp-Round-2\\lab_10\\Oleg-Debug\\Oleg-Debug\\Oleg-Debug.csproj",
+        "packagesPath": "C:\\Users\\Trapp\\.nuget\\packages\\",
+        "outputPath": "D:\\Sharp-Round-2\\lab_10\\Oleg-Debug\\Oleg-Debug\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ralia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Trapp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net50"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp5.0": {
             "projectReferences": {}
           }
         },
@@ -37,8 +36,7 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp5.0": {
           "imports": [
             "net461",
             "net462",
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
