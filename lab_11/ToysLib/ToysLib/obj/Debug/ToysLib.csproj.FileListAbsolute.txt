@@ -1,0 +1,6 @@
+D:\Sharp-Round-2\lab_11\ToysLib\ToysLib\bin\Debug\ToysLib.dll
+D:\Sharp-Round-2\lab_11\ToysLib\ToysLib\bin\Debug\ToysLib.pdb
+D:\Sharp-Round-2\lab_11\ToysLib\ToysLib\obj\Debug\ToysLib.csprojAssemblyReference.cache
+D:\Sharp-Round-2\lab_11\ToysLib\ToysLib\obj\Debug\ToysLib.csproj.CoreCompileInputs.cache
+D:\Sharp-Round-2\lab_11\ToysLib\ToysLib\obj\Debug\ToysLib.dll
+D:\Sharp-Round-2\lab_11\ToysLib\ToysLib\obj\Debug\ToysLib.pdb

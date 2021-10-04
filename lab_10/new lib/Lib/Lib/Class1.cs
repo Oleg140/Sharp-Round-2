@@ -8,25 +8,42 @@ using Oleg_Debug;
 
 namespace Lib
 {
-    public class FileService<T> : IFileService<T> where T : Employee
+    public class Program
     {
-        public void SaveData(IEnumerable<T> data, string fileName)
+        FileService<Employee> tool = new FileService<Employee>();
+        public void SaveData(IEnumerable<Employee> data, string filename)
         {
-            using (FileStream fs = new FileStream(fileName,FileMode.Create))
-            {
-                var options = new JsonSerializerOptions { IncludeFields = true };
-                JsonSerializer.SerializeAsync<List<T>>(fs,data.ToList(),options).Wait();
-            }
+            tool.SaveData(data,filename);
         }
 
-        public IEnumerable<T> ReadFile(string fileName)
+        public List<Employee> ReadFile(string fileName)
         {
-            using (FileStream fs = new FileStream(fileName,FileMode.Open))
-            {
-                var options = new JsonSerializerOptions { IncludeFields = true };
-                var ans = JsonSerializer.DeserializeAsync<List<T>>(fs,options).Result;
-                return ans;
-            }
+            List<Employee> ans;
+            ans = tool.ReadFile(fileName).ToList();
+            return ans;
         }
     }
+
+    public class FileService<T> : IFileService<T> where T : Employee
+        {
+            public void SaveData(IEnumerable<T> data, string fileName)
+            {
+                using (FileStream fs = new FileStream(fileName, FileMode.Create))
+                {
+                    var options = new JsonSerializerOptions {IncludeFields = true};
+                    JsonSerializer.SerializeAsync<List<T>>(fs, data.ToList(), options).Wait();
+                }
+            }
+
+            public IEnumerable<T> ReadFile(string fileName)
+            {
+                using (FileStream fs = new FileStream(fileName, FileMode.Open))
+                {
+                    var options = new JsonSerializerOptions {IncludeFields = true};
+                    var ans = JsonSerializer.DeserializeAsync<List<T>>(fs, options).Result;
+                    return ans;
+                }
+            }
+        }
+    
 }

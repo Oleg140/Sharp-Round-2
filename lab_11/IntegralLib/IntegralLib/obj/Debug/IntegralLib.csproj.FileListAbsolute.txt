@@ -1,0 +1,6 @@
+D:\Sharp-Round-2\lab_11\IntegralLib\IntegralLib\obj\Debug\IntegralLib.csprojAssemblyReference.cache
+D:\Sharp-Round-2\lab_11\IntegralLib\IntegralLib\obj\Debug\IntegralLib.csproj.CoreCompileInputs.cache
+D:\Sharp-Round-2\lab_11\IntegralLib\IntegralLib\bin\Debug\IntegralLib.dll
+D:\Sharp-Round-2\lab_11\IntegralLib\IntegralLib\bin\Debug\IntegralLib.pdb
+D:\Sharp-Round-2\lab_11\IntegralLib\IntegralLib\obj\Debug\IntegralLib.dll
+D:\Sharp-Round-2\lab_11\IntegralLib\IntegralLib\obj\Debug\IntegralLib.pdb

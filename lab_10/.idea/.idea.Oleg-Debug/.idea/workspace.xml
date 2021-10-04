@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="504d2591-d703-4aed-a1ac-e410091890eb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Lab10_lib/.idea/.idea.Lab10_lib/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10_lib/.idea/.idea.Lab10_lib/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab10_lib/Lab10_lib/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10_lib/Lab10_lib/Class1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab10_lib/Lab10_lib/Lab10_lib.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10_lib/Lab10_lib/Lab10_lib.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab10_lib/Lab10_lib/bin/Debug/Lab10_lib.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab10_lib/Lab10_lib/bin/Debug/Lab10_lib.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab10_lib/Lab10_lib/bin/Release/Lab10_lib.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab10_lib/Lab10_lib/bin/Release/Lab10_lib.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab10_lib/Lab10_lib/obj/Debug/Lab10_lib.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10_lib/Lab10_lib/obj/Debug/Lab10_lib.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab10_lib/Lab10_lib/obj/Debug/Lab10_lib.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10_lib/Lab10_lib/obj/Debug/Lab10_lib.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab10_lib/Lab10_lib/obj/Debug/Lab10_lib.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10_lib/Lab10_lib/obj/Debug/Lab10_lib.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab10_lib/Lab10_lib/obj/Debug/Lab10_lib.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab10_lib/Lab10_lib/obj/Debug/Lab10_lib.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/.idea/.idea.Oleg-Debug/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/.idea/.idea.Oleg-Debug/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/bin/Debug/net5.0/Oleg-Debug.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/bin/Debug/net5.0/Oleg-Debug.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/bin/Debug/net5.0/Oleg-Debug.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/bin/Debug/net5.0/Oleg-Debug.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/bin/Debug/net5.0/Oleg-Debug.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/bin/Debug/net5.0/Oleg-Debug.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/bin/Debug/net5.0/Oleg-Debug.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/bin/Debug/net5.0/Oleg-Debug.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/bin/Release/net5.0/Oleg-Debug.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/bin/Release/net5.0/Oleg-Debug.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/bin/Release/net5.0/Oleg-Debug.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/bin/Release/net5.0/Oleg-Debug.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/bin/Release/net5.0/Oleg-Debug.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/bin/Release/net5.0/Oleg-Debug.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/bin/Release/net5.0/Oleg-Debug.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/bin/Release/net5.0/Oleg-Debug.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/bin/Release/net5.0/ref/Oleg-Debug.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/bin/Release/net5.0/ref/Oleg-Debug.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Debug/net5.0/Oleg-Debug.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Debug/net5.0/Oleg-Debug.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Debug/net5.0/Oleg-Debug.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Debug/net5.0/Oleg-Debug.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Debug/net5.0/Oleg-Debug.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Debug/net5.0/Oleg-Debug.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Debug/net5.0/Oleg-Debug.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Debug/net5.0/Oleg-Debug.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Debug/net5.0/Oleg-Debug.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Debug/net5.0/Oleg-Debug.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Debug/net5.0/Oleg-Debug.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Debug/net5.0/Oleg-Debug.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Debug/net5.0/Oleg-Debug.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Debug/net5.0/Oleg-Debug.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Oleg-Debug.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Oleg-Debug.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Oleg-Debug.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Oleg-Debug.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Release/net5.0/Oleg-Debug.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Release/net5.0/Oleg-Debug.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Release/net5.0/Oleg-Debug.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Release/net5.0/Oleg-Debug.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Release/net5.0/Oleg-Debug.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Release/net5.0/Oleg-Debug.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Release/net5.0/Oleg-Debug.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Release/net5.0/Oleg-Debug.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Release/net5.0/Oleg-Debug.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Release/net5.0/Oleg-Debug.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Release/net5.0/Oleg-Debug.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Release/net5.0/Oleg-Debug.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Release/net5.0/Oleg-Debug.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Release/net5.0/Oleg-Debug.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Release/net5.0/ref/Oleg-Debug.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/Release/net5.0/ref/Oleg-Debug.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Oleg-Debug/Oleg-Debug/obj/project.packagespec.json" afterDir="false" />
-    </list>
+    <list default="true" id="504d2591-d703-4aed-a1ac-e410091890eb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +40,7 @@
       <updated>1632915004003</updated>
       <workItem from="1632915009942" duration="72000" />
       <workItem from="1633022296172" duration="31000" />
+      <workItem from="1633244526087" duration="10000" />
     </task>
     <servers />
   </component>

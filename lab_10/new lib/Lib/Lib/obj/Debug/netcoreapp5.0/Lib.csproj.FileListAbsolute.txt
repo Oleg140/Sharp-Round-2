@@ -1,0 +1,15 @@
+D:\Sharp-Round-2\lab_10\new lib\Lib\Lib\bin\Debug\netcoreapp5.0\Lib.deps.json
+D:\Sharp-Round-2\lab_10\new lib\Lib\Lib\bin\Debug\netcoreapp5.0\Lib.dll
+D:\Sharp-Round-2\lab_10\new lib\Lib\Lib\bin\Debug\netcoreapp5.0\ref\Lib.dll
+D:\Sharp-Round-2\lab_10\new lib\Lib\Lib\bin\Debug\netcoreapp5.0\Lib.pdb
+D:\Sharp-Round-2\lab_10\new lib\Lib\Lib\bin\Debug\netcoreapp5.0\Oleg-Debug.dll
+D:\Sharp-Round-2\lab_10\new lib\Lib\Lib\bin\Debug\netcoreapp5.0\Oleg-Debug.pdb
+D:\Sharp-Round-2\lab_10\new lib\Lib\Lib\obj\Debug\netcoreapp5.0\Lib.csprojAssemblyReference.cache
+D:\Sharp-Round-2\lab_10\new lib\Lib\Lib\obj\Debug\netcoreapp5.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp-Round-2\lab_10\new lib\Lib\Lib\obj\Debug\netcoreapp5.0\Lib.AssemblyInfoInputs.cache
+D:\Sharp-Round-2\lab_10\new lib\Lib\Lib\obj\Debug\netcoreapp5.0\Lib.AssemblyInfo.cs
+D:\Sharp-Round-2\lab_10\new lib\Lib\Lib\obj\Debug\netcoreapp5.0\Lib.csproj.CoreCompileInputs.cache
+D:\Sharp-Round-2\lab_10\new lib\Lib\Lib\obj\Debug\netcoreapp5.0\Lib.csproj.CopyComplete
+D:\Sharp-Round-2\lab_10\new lib\Lib\Lib\obj\Debug\netcoreapp5.0\Lib.dll
+D:\Sharp-Round-2\lab_10\new lib\Lib\Lib\obj\Debug\netcoreapp5.0\ref\Lib.dll
+D:\Sharp-Round-2\lab_10\new lib\Lib\Lib\obj\Debug\netcoreapp5.0\Lib.pdb

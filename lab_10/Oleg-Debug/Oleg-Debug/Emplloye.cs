@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-using Lab10_lib;
 namespace Oleg_Debug
 {
     public class Employee

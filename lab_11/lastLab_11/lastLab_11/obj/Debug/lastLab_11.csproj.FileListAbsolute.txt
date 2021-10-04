@@ -1,0 +1,11 @@
+D:\Sharp-Round-2\lab_11\lastLab_11\lastLab_11\bin\Debug\lastLab_11.exe
+D:\Sharp-Round-2\lab_11\lastLab_11\lastLab_11\bin\Debug\lastLab_11.pdb
+D:\Sharp-Round-2\lab_11\lastLab_11\lastLab_11\bin\Debug\IntegralLib.dll
+D:\Sharp-Round-2\lab_11\lastLab_11\lastLab_11\bin\Debug\IntegralLib.pdb
+D:\Sharp-Round-2\lab_11\lastLab_11\lastLab_11\obj\Debug\lastLab_11.csprojAssemblyReference.cache
+D:\Sharp-Round-2\lab_11\lastLab_11\lastLab_11\obj\Debug\lastLab_11.csproj.CoreCompileInputs.cache
+D:\Sharp-Round-2\lab_11\lastLab_11\lastLab_11\obj\Debug\lastLab_11.csproj.CopyComplete
+D:\Sharp-Round-2\lab_11\lastLab_11\lastLab_11\obj\Debug\lastLab_11.exe
+D:\Sharp-Round-2\lab_11\lastLab_11\lastLab_11\obj\Debug\lastLab_11.pdb
+D:\Sharp-Round-2\lab_11\lastLab_11\lastLab_11\bin\Debug\ToysLib.dll
+D:\Sharp-Round-2\lab_11\lastLab_11\lastLab_11\bin\Debug\ToysLib.pdb

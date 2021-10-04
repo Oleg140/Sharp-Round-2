@@ -21,14 +21,11 @@ D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\bin\Release\net5.0\Oleg-Debug.runt
 D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\bin\Release\net5.0\Oleg-Debug.dll
 D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\bin\Release\net5.0\ref\Oleg-Debug.dll
 D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\bin\Release\net5.0\Oleg-Debug.pdb
-D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\bin\Release\net5.0\Lab10_lib.dll
-D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\bin\Release\net5.0\Lab10_lib.pdb
 D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\obj\Release\net5.0\Oleg-Debug.csprojAssemblyReference.cache
 D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\obj\Release\net5.0\Oleg-Debug.GeneratedMSBuildEditorConfig.editorconfig
 D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\obj\Release\net5.0\Oleg-Debug.AssemblyInfoInputs.cache
 D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\obj\Release\net5.0\Oleg-Debug.AssemblyInfo.cs
 D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\obj\Release\net5.0\Oleg-Debug.csproj.CoreCompileInputs.cache
-D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\obj\Release\net5.0\Oleg-Debug.csproj.CopyComplete
 D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\obj\Release\net5.0\Oleg-Debug.dll
 D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\obj\Release\net5.0\ref\Oleg-Debug.dll
 D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\obj\Release\net5.0\Oleg-Debug.pdb

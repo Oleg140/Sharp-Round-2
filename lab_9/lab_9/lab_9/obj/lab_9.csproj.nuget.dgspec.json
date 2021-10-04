@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Rider_LABS\\SEM_3\\LAB_9\\lab_9\\lab_9\\lab_9.csproj": {}
+    "D:\\Sharp-Round-2\\lab_9\\lab_9\\lab_9\\lab_9.csproj": {}
   },
   "projects": {
-    "D:\\Rider_LABS\\SEM_3\\LAB_9\\lab_9\\lab_9\\lab_9.csproj": {
+    "D:\\Sharp-Round-2\\lab_9\\lab_9\\lab_9\\lab_9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Rider_LABS\\SEM_3\\LAB_9\\lab_9\\lab_9\\lab_9.csproj",
+        "projectUniqueName": "D:\\Sharp-Round-2\\lab_9\\lab_9\\lab_9\\lab_9.csproj",
         "projectName": "lab_9",
-        "projectPath": "D:\\Rider_LABS\\SEM_3\\LAB_9\\lab_9\\lab_9\\lab_9.csproj",
+        "projectPath": "D:\\Sharp-Round-2\\lab_9\\lab_9\\lab_9\\lab_9.csproj",
         "packagesPath": "C:\\Users\\Trapp\\.nuget\\packages\\",
-        "outputPath": "D:\\Rider_LABS\\SEM_3\\LAB_9\\lab_9\\lab_9\\obj\\",
+        "outputPath": "D:\\Sharp-Round-2\\lab_9\\lab_9\\lab_9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Trapp\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -7,7 +7,7 @@
     "outputPath": "D:\\Sharp-Round-2\\lab_10\\Oleg-Debug\\Oleg-Debug\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
-      "net50"
+      "netcoreapp5.0"
     ],
     "sources": {
       "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},

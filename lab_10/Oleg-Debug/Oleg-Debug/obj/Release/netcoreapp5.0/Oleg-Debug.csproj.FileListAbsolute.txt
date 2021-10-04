@@ -1,0 +1,16 @@
+D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\bin\Release\netcoreapp5.0\Oleg-Debug.exe
+D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\bin\Release\netcoreapp5.0\Oleg-Debug.deps.json
+D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\bin\Release\netcoreapp5.0\Oleg-Debug.runtimeconfig.json
+D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\bin\Release\netcoreapp5.0\Oleg-Debug.runtimeconfig.dev.json
+D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\bin\Release\netcoreapp5.0\Oleg-Debug.dll
+D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\bin\Release\netcoreapp5.0\ref\Oleg-Debug.dll
+D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\bin\Release\netcoreapp5.0\Oleg-Debug.pdb
+D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\obj\Release\netcoreapp5.0\Oleg-Debug.csprojAssemblyReference.cache
+D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\obj\Release\netcoreapp5.0\Oleg-Debug.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\obj\Release\netcoreapp5.0\Oleg-Debug.AssemblyInfoInputs.cache
+D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\obj\Release\netcoreapp5.0\Oleg-Debug.AssemblyInfo.cs
+D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\obj\Release\netcoreapp5.0\Oleg-Debug.csproj.CoreCompileInputs.cache
+D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\obj\Release\netcoreapp5.0\Oleg-Debug.dll
+D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\obj\Release\netcoreapp5.0\ref\Oleg-Debug.dll
+D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\obj\Release\netcoreapp5.0\Oleg-Debug.pdb
+D:\Sharp-Round-2\lab_10\Oleg-Debug\Oleg-Debug\obj\Release\netcoreapp5.0\Oleg-Debug.genruntimeconfig.cache

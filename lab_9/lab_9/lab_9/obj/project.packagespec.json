@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\Rider_LABS\\SEM_3\\LAB_9\\lab_9\\lab_9\\lab_9.csproj",
+    "projectUniqueName": "D:\\Sharp-Round-2\\lab_9\\lab_9\\lab_9\\lab_9.csproj",
     "projectName": "lab_9",
-    "projectPath": "D:\\Rider_LABS\\SEM_3\\LAB_9\\lab_9\\lab_9\\lab_9.csproj",
-    "outputPath": "D:\\Rider_LABS\\SEM_3\\LAB_9\\lab_9\\lab_9\\obj\\",
+    "projectPath": "D:\\Sharp-Round-2\\lab_9\\lab_9\\lab_9\\lab_9.csproj",
+    "outputPath": "D:\\Sharp-Round-2\\lab_9\\lab_9\\lab_9\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp5.0"
