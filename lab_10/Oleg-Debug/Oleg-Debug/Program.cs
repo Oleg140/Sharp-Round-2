@@ -20,7 +20,7 @@ namespace Oleg_Debug
             
             
             Assembly asm = Assembly.LoadFrom(DLLPath);
-            Type t = asm.GetType("Lib.Program", true, true); // почему я не могу указать достать FileService<T>
+            Type t = asm.GetType("Lib.FileService`1", true, true).MakeGenericType(typeof(Employee)); // почему я не могу указать достать FileService<T>
             object obj = Activator.CreateInstance(t);
             MethodInfo SaveData = t.GetMethod("SaveData");
             MethodInfo ReadFile = t.GetMethod("ReadFile");

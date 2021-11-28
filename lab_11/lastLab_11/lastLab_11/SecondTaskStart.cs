@@ -17,6 +17,16 @@ namespace lastLab_11
                 Console.WriteLine("Threat has been started");
             Console.WriteLine(thisTread.Name);
             
+            List<Toy> toys = new List<Toy>();
+            
+            for (int i = 0; i < 10; i++) 
+                toys.Add(new Toy());
+
+            foreach (var VARIABLE in toys)
+            {
+                Console.WriteLine(VARIABLE.Statistic);
+            }
+            
             MemoryStream st = new MemoryStream();
             
             StreamService tool = new StreamService();
@@ -24,7 +34,7 @@ namespace lastLab_11
             Tuple<MemoryStream,StreamService,string> tuple = new Tuple<MemoryStream,StreamService,string>(st,tool,fileName);
             
             Thread FirstThread = new Thread(new ParameterizedThreadStart(FirstStream));
-            FirstThread.Start(tuple);
+            //FirstThread.Start(tuple);
                 
            /* Thread SecondThread = new Thread(new ParameterizedThreadStart(SecondStream));
             SecondThread.Start(tuple);
